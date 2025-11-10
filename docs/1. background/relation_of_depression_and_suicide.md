@@ -30,4 +30,4 @@
 
 정신건강 연구소에서 발표한 [우리나라 자살의 사회, 경제적 비용부담에 관한 연구](https://www.ncmh.go.kr/research/board/boardView.do%3Bjsessionid%3DbG4aKuQIND2f7137HgZiFQ8ae94qwiuon6c0eAxv15ERrwE5lOBUvx6qXGBC6A2c.mohwwas1_servlet_engine1?bn=SNMH_COMMON_BOARD&bno=&fno=84&menu_cd=03_02_00_03&no=627&pageIndex=&search_content=&search_item=)에 따르면, 자살자의 60%가 우울증에 기인하는 것으로 알려져 있습니다.
 
-따라서, 우울증 관련 자살으로 인한 사회, 경제적 손실액은 **약 3.24조원** 으로 계산됩니다.
+따라서, 우울증 관련 자살으로 인한 사회, 경제적 손실액은 **약 3.24조원** 으로 추정할 수 있습니다.
