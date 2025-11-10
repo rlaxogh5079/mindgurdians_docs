@@ -1,17 +1,9 @@
-# Welcome to MkDocs
+# Mind Gurdians
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+---
 
-## Commands
+### 📌 개요
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+해당 페이지는 2025 KIRD 장애-비장애 팀 프로젝트를 진행하면서 모의기획한 Mind Gurdians의 연구 내용을 정리한 페이지입니다.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Mind Gurdians는 `의료취약지역에서 정신건강 의료기관 또는 전문의의 부재로 인해 치료 접근 어려움을 겪는 우울증 환자를 위한 원격 진료 크로스 플랫폼 애플리케이션 개발`에 대한 모의기획을 최종 목표로 진행했습니다.
