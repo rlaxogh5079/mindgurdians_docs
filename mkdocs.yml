@@ -64,3 +64,6 @@ extra_css:
 
 nav:
   - 소개: index.md
+  - 배경:
+      - 환자 증가: "1. background/increase_of_patient.md"
+      - 우울증의 위험성: "1. background/relation_of_depression_and_suicide.md"
