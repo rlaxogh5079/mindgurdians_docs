@@ -1,0 +1,41 @@
+:root {
+  --md-primary-fg-color: #3f51b5;
+  --md-accent-fg-color: #e91e63;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+  font-weight: 700;
+}
+.md-typeset {
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+.md-grid {
+  max-width: 1200px;
+}
+
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 8px;
+}
+.md-typeset pre code {
+  font-size: 0.9rem;
+}
+
+.grid.cards {
+  gap: 0.8rem;
+}
+
+/* 코드 블록 자동 줄바꿈 (가로 스크롤 방지) */
+.md-typeset pre,
+.md-typeset .highlight pre {
+  white-space: pre-wrap;       /* 줄바꿈 허용 */
+  word-break: break-word;      /* 긴 단어/경로 줄바꿈 */
+  overflow-wrap: anywhere;     /* 어디서든 줄바꿈 허용 */
+}
+.md-typeset pre > code {
+  white-space: inherit;        /* pre 설정을 따름 */
+}
