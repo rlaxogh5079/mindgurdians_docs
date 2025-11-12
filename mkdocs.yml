@@ -34,6 +34,7 @@ theme:
 
 plugins:
   - search
+  - charts
 
 markdown_extensions:
   - admonition
@@ -43,7 +44,11 @@ markdown_extensions:
   - toc:
       permalink: true
   - pymdownx.details
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: vegalite
+          class: vegalite
+          format: !!python/name:mkdocs_charts_plugin.fences.fence_vegalite
   - pymdownx.inlinehilite
   - pymdownx.highlight:
       anchor_linenums: true
@@ -61,6 +66,13 @@ extra:
 
 extra_css:
   - stylesheets/extra.css
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/vega@5
+  - https://cdn.jsdelivr.net/npm/vega-lite@5
+  - https://cdn.jsdelivr.net/npm/vega-embed@6
 
 nav:
   - 소개: index.md
