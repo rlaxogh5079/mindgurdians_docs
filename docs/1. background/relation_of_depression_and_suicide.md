@@ -2,7 +2,7 @@
 
 ---
 
-### 자살과의 연관성
+## 자살과의 연관성
 
 국가트라우마에서 명시하고 있는 [[다음 글]](https://nct.go.kr/distMental/rating/rating01_7_1.do)에 따르면 `주요우울장애(MDD, Major Depression Disorder)` 환자는 일반인 대비 <mark>자살 위험성이 13~26배 높습니다.</mark>
 
@@ -12,7 +12,7 @@
 
 ---
 
-### 자살과 경제적 손실
+## 자살과 경제적 손실
 
 <mark>2022년 한국에서 자살에 따른 사회경제적 비용이 약 5조 4천억원</mark> 이라는 언론 인용이 존재합니다. [[글 확인]](https://www.gb.go.kr/Main/page.do?BD_CODE=bbs_bodo&B_LEVEL=0&B_NUM=352141801&B_STEP=352141800&Start=700&V_NUM=7584&bdName=&cmd=2&dept_code=&dept_name=&key=4&mnu_uid=6792&p1=0&p2=0&tbbscode1=bbs_bodo&word=)
 
@@ -24,7 +24,7 @@
 
 ---
 
-### 종합 (추가)
+## 종합 (추가)
 
 [2022년 통계청 사망원인통계](https://www.kostat.go.kr/board.es?act=view&bid=218&list_no=427216&mid=a10301060200)에 따르면 한국 자살 사망자 수는 12,906명으로 집계됩니다.
 
