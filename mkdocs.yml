@@ -96,3 +96,6 @@ nav:
       - 환자 특성: "4. content/patient_characteristics.md"
       - 데이터 흐름: "4. content/data_flow.md"
       - 개발 과정: "4. content/development_process.md"
+      - 개인정보 처리: "4. content/personal_information_processing.md"
+      - 하드웨어 제작 설계: "4. content/production_design.md"
+      - 알고리즘 설계: "4. content/algorithm_design.md"
