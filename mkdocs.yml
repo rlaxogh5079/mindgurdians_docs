@@ -91,3 +91,8 @@ nav:
   - 목표:
       - 최종 목표: "3. goal/final_goal.md"
       - 평가 기준: "3. goal/metewand.md"
+  - 내용:
+      - 기능: "4. content/function.md"
+      - 환자 특성: "4. content/patient_characteristics.md"
+      - 데이터 흐름: "4. content/data_flow.md"
+      - 개발 과정: "4. content/development_process.md"
