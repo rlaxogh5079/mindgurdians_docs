@@ -7,13 +7,13 @@ theme:
   palette:
     - scheme: default
       primary: indigo
-      accent: pink
+      accent: indigo
       toggle:
         icon: material/weather-night
         name: 다크 모드로 전환
     - scheme: slate
       primary: indigo
-      accent: pink
+      accent: indigo
       toggle:
         icon: material/weather-sunny
         name: 라이트 모드로 전환
@@ -46,6 +46,9 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.superfences:
       custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
         - name: vegalite
           class: vegalite
           format: !!python/name:mkdocs_charts_plugin.fences.fence_vegalite
@@ -68,11 +71,10 @@ extra_css:
   - stylesheets/extra.css
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js
-
-extra_javascript:
   - https://cdn.jsdelivr.net/npm/vega@5
   - https://cdn.jsdelivr.net/npm/vega-lite@5
   - https://cdn.jsdelivr.net/npm/vega-embed@6
+  - https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js
 
 nav:
   - 소개: index.md
@@ -81,3 +83,8 @@ nav:
       - 우울증의 위험성: "1. background/relation_of_depression_and_suicide.md"
       - 지역별 의료기관 현황: "1. background/status_of_medical_institutions_by_region.md"
       - 기술 및 시장 동향: "1. background/technology_and_market_trend.md"
+  - 인터뷰:
+      - 이해관계자 분석: "2. interview/stakeholder_analysis.md"
+      - 충남대학병원 안소현교수님: "2. interview/chungnam_national_university_hospital.md"
+      - 정신건강국립연구소 한기완과장님: "2. interview/national_center_for_mental_health.md"
+      - 종합 의견: "2. interview/overall_opinion.md"
